@@ -5,7 +5,7 @@
 # add book
 # return book
 
-# HarryLibrary = Library(listofbooks, library_name)
+# Shubh Library = Library(listofbooks, library_name)
 
 
 #dictionary (books-nameofperson)
